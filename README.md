@@ -1,4 +1,4 @@
-# _Awesome-Case
+# Aerial Dash
 # Smart India Hackathon 2020
 Repositry of project created for **SIH 2020** competition documentation <br/>
 [ Project is under final phase]
