@@ -1,7 +1,6 @@
 # Aerial Dash
 # Smart India Hackathon 2020
 Repositry of project created for **SIH 2020** competition documentation <br/>
-[ Project is under final phase]
 
 # Project Title
 **AerialDash** is web based application which aims to create Aerodrome database using the feature extraction.
@@ -42,9 +41,4 @@ List of who participated in this project:<br/>
 >etc :octocat:
 
 
-# Credentials
 
-Platform | E-mail | Password
------------- | ------------- | -------------
-Heroku | pksimpleid2@gmail.com | Issue request on github
-Atlas | pevocif632@seomail.top | Issue request on github
