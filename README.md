@@ -8,11 +8,11 @@ Repositry of project created for **SIH 2020** competition documentation <br/>
 You can click on [AerialDash](https://awesomecase.herokuapp.com) to navigate to web application <br/> Use chrome for better view.
 
 # Documentation
-1. [Introduction to AerialDash](https://mass9.github.io/SIH-2020-Docx/)
-2. [Buliding blocks](https://mass9.github.io/SIH-2020-Docx/install.html) 
-3. [Web Workflow](https://mass9.github.io/SIH-2020-Docx/wb.html)
-4. [Diagrams](https://mass9.github.io/SIH-2020-Docx/diagrams.html)
-5. [Screenshots of Aerodrome Maps](https://mass9.github.io/SIH-2020-Docx/ss.html)
+1. [Introduction to AerialDash](https://prashantktiwari.github.io/SIH-2020-Docx/)
+2. [Buliding blocks](https://prashantktiwari.github.io/SIH-2020-Docx/install.html) 
+3. [Web Workflow](https://prashantktiwari.github.io/SIH-2020-Docx/wb.html)
+4. [Diagrams](https://prashantktiwari.github.io/SIH-2020-Docx/diagrams.html)
+5. [Screenshots of Aerodrome Maps](https://prashantktiwari.github.io/SIH-2020-Docx/ss.html)
 
 # Prerequisites
  None.
